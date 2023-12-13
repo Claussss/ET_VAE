@@ -3,6 +3,8 @@
 ## Overview
 This project presents a machine learning system aimed at transferring audio effects from one monophonic audio source to another. Nowadays, applying effects to sound is a ubiquitous practice, enhancing the pleasantness or serving as a contrast to improve other sounds. This system is particularly valuable in the music industry, where sounds in songs often undergo the application of multiple effects.
 
+You can find some model showcases in the playground.ipynb.
+
 ## Key Features
 - **Automated Audio Effects Transfer**: The system efficiently replicates audio effects from one sound to another, overcoming the laborious process involved in manual replication.
 - **Innovative Use of VAE**: The backbone of the system is a Variational Autoencoder (VAE), which generates a latent space specifically tailored for manipulating audio effects.
